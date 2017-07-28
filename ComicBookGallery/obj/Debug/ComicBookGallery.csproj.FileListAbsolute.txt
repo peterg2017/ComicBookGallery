@@ -27,14 +27,6 @@ C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\roslyn\VBC
 C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\ComicBookGallery.dll.config
 C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\ComicBookGallery.dll
 C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\ComicBookGallery.pdb
-C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\System.Web.Helpers.dll
-C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\System.Web.Mvc.dll
-C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\System.Web.Razor.dll
-C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\System.Web.Webpages.Deployment.dll
-C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\System.Web.Webpages.dll
-C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\System.Web.Webpages.Razor.dll
 C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\System.Web.Razor.xml
 C:\Users\grammlich\Source\Repos\ComicBookGallery\ComicBookGallery\bin\System.Web.Webpages.xml
